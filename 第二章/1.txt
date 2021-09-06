@@ -1,0 +1,9 @@
+public static void main(string[] arge) {
+   int year= x ;
+   int index = 0;
+   for(int a=1;a<100;a++)  {
+      if (  (year%4000==0) || (year%4==o && year%100=0) {
+          index= index+1; }
+     year++;  }
+  system out println("他过了"index"次闰年");}
+  
