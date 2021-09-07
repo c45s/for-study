@@ -1,0 +1,7 @@
+ publie statie vold main(string[] args){
+ (Scanner ac = new Scanner(system in);
+    int a= ac.nextInt0 ;
+    int n= ac. nextlnt0;
+    int sum = a+n;
+    }
+ system out println ("最大公因数" sum/n ); }
